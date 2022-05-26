@@ -1,0 +1,2 @@
+# Principal_Component_Analysis
+This repository consists of performing Principal Component Analysis (Finding out the principle components of our dataset), using the concept of Eigen Vectors and Eigen Values of the correlation matrix. Also, it also includes the technique of reducing the dimension of the  data using Singular Value Decomposition technique and reduce it to the lowest possible dimension.
